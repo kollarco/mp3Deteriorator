@@ -21,8 +21,8 @@ into mp3 (using other peoples libraries) and being able to change the compressio
 
 
 ## Next Step
-So next I could implement
-an easy UI. 
+Next I could implement
+a simple UI. 
 
 My plan is also to mess with the bytes before/after the encoding process to see if i can find any technique
 that sounds interesting. So maybe there could be some sort of jitter. 
