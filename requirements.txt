@@ -1,0 +1,2 @@
+lameenc~=1.8.1
+soundfile~=0.13.1
